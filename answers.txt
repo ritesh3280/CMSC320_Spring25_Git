@@ -9,3 +9,7 @@ Answer: Data Science can be applied in various fields like marketing, finance, e
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging generally combines branches with a new commit while rebasing puts commits on other branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Im looking forward to learn more about data science and am ready to apply them in real world applications
