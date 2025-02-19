@@ -5,3 +5,7 @@ Answer: We consider using git for version control because it helps us keep a rta
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data Science can be applied in various fields like marketing, finance, education and even healthcare. One example of how we can apply data science in marketing is that we can use it to personalize marketing campaings with data and target the right customers with the right advertisements.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging generally combines branches with a new commit while rebasing puts commits on other branch.
